@@ -4,3 +4,9 @@ c:\users\eahscs\documents\visual studio 2015\Projects\DuskRPG1\DuskRPG1\bin\Debu
 c:\users\eahscs\documents\visual studio 2015\Projects\DuskRPG1\DuskRPG1\obj\Debug\DuskRPG1.csprojResolveAssemblyReference.cache
 c:\users\eahscs\documents\visual studio 2015\Projects\DuskRPG1\DuskRPG1\obj\Debug\DuskRPG1.exe
 c:\users\eahscs\documents\visual studio 2015\Projects\DuskRPG1\DuskRPG1\obj\Debug\DuskRPG1.pdb
+C:\Users\eahscs\Desktop\DuskRPG1\bin\Debug\DuskRPG1.exe.config
+C:\Users\eahscs\Desktop\DuskRPG1\obj\Debug\DuskRPG1.exe
+C:\Users\eahscs\Desktop\DuskRPG1\obj\Debug\DuskRPG1.pdb
+C:\Users\eahscs\Desktop\DuskRPG1\bin\Debug\DuskRPG1.exe
+C:\Users\eahscs\Desktop\DuskRPG1\bin\Debug\DuskRPG1.pdb
+C:\Users\eahscs\Desktop\DuskRPG1\obj\Debug\DuskRPG1.csprojResolveAssemblyReference.cache
